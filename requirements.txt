@@ -1,0 +1,6 @@
+Django
+django-admin-material  # for 'admin_material'
+django-crispy-forms    # if crispy forms are used
+django-rest-framework  # if APIs exist
+psycopg2-binary        # if PostgreSQL is used
+mysqlclient            # if MySQL is used
